@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarsiyaEugene
-- 👀 I’m interested in IOS development
-- 🌱 I’m currently learning Swift and Xcode
-- 💞️ I’m looking to collaborate on IOS Apps projects
+- 👀 I’m interested in ML, DS, IT industry management and a little bit Photonics computing
+- 🌱 I’m currently a MSc student at Skoltech
+- 💞️ I’m looking to collaborate on every intersting project, especially connected with ML, DS and Recommendation systems
 - 📫 How to reach me e-mail: g.garsia.1998@mail.ru
 
 <!---
