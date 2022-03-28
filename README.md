@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarsiyaEugene
-- 👀 I’m interested in ML, DS, IT industry management and a little bit Photonics computing
+- 👀 I’m interested in ML, DS, IT industry management and software development.
 - 🌱 I’m currently a MSc student at Skoltech
-- 💞️ I’m looking to collaborate on every intersting project, especially connected with ML, DS and Recommendation systems
+- 💞️ I’m looking to collaborate on every intersting project, especially connected with ML, DS.
 - 📫 How to reach me e-mail: g.garsia.1998@mail.ru, Evgeniy.Garsiya@skoltech.ru
 
 <!---
